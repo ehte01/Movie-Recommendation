@@ -1,0 +1,14 @@
+
+body{
+    padding: 1.5rem 2rem;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+section div{
+    flex-basis: 30%;
+    margin: 10px 20px;
+}
